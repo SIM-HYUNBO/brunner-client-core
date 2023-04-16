@@ -1,0 +1,10 @@
+{
+	"BrunnerServer" : {
+		"hostName": "112.156.201.62",
+		"__hostName__":"0.0.0.0",
+		"portNumber": 5672,
+		"userName": "admin",
+		"password": "admin",
+		"queueName": "BrunnerServer" 
+	}
+}
